@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "Conatct us"; ObjectID = "9v1-Zc-nDV"; */
+"9v1-Zc-nDV.normalTitle" = "Conatct us";
+
+/* Class = "UILabel"; text = "Win Trophy"; ObjectID = "B5G-Qa-Uc1"; */
+"B5G-Qa-Uc1.text" = "Win Trophy";
+
+/* Class = "UIButton"; normalTitle = "Rate us"; ObjectID = "DEc-3x-fwJ"; */
+"DEc-3x-fwJ.normalTitle" = "Rate us";
+
+/* Class = "UILabel"; text = "Dodge Runner"; ObjectID = "Ipa-xB-KRM"; */
+"Ipa-xB-KRM.text" = "Dodge Runner";
+
+/* Class = "UINavigationItem"; title = "About us"; ObjectID = "JeY-5z-mkI"; */
+"JeY-5z-mkI.title" = "About us";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "MlQ-u9-sjk"; */
+"MlQ-u9-sjk.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Rate us"; ObjectID = "Uin-HJ-5OZ"; */
+"Uin-HJ-5OZ.text" = "Rate us";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "XFk-sO-WgY"; */
+"XFk-sO-WgY.normalTitle" = "Submit";
+
+/* Class = "UINavigationItem"; title = "Rate us"; ObjectID = "XnE-82-Rgp"; */
+"XnE-82-Rgp.title" = "Rate us";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "YFj-ZT-mea"; */
+"YFj-ZT-mea.text" = "Home";
+
+/* Class = "UILabel"; text = "Game Over"; ObjectID = "br0-FL-os0"; */
+"br0-FL-os0.text" = "Game Over";
+
+/* Class = "UILabel"; text = "Your Email"; ObjectID = "e0x-jf-TWz"; */
+"e0x-jf-TWz.text" = "Your Email";
+
+/* Class = "UILabel"; text = "Dodge Runner"; ObjectID = "fHO-mU-O7p"; */
+"fHO-mU-O7p.text" = "Dodge Runner";
+
+/* Class = "UIButton"; normalTitle = "Exit"; ObjectID = "g0G-4J-hft"; */
+"g0G-4J-hft.normalTitle" = "Exit";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "ruA-P6-bDn"; */
+"ruA-P6-bDn.normalTitle" = "Privacy Policy";
+
+/* Class = "UITextField"; placeholder = "Share your email, we'll reach out!"; ObjectID = "uDP-cK-v25"; */
+"uDP-cK-v25.placeholder" = "Share your email, we'll reach out!";
+
+/* Class = "UIButton"; normalTitle = "Re Play"; ObjectID = "ufU-8B-clo"; */
+"ufU-8B-clo.normalTitle" = "Re Play";
+
+/* Class = "UILabel"; text = "Your Message"; ObjectID = "xdj-Tn-TOO"; */
+"xdj-Tn-TOO.text" = "Your Message";
