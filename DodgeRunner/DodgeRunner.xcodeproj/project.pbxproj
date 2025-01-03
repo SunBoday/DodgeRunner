@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		4E3DFFFF00C2ED30CEE993C4 /* Pods_DodgeRunner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADF94B8A619CCA7A534CFD3F /* Pods_DodgeRunner.framework */; };
+		E9F396032D2823B100C5B79B /* RunnerTapGameVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9F396022D2823B100C5B79B /* RunnerTapGameVC.swift */; };
+		E9F396052D28240500C5B79B /* RunnerImg + Gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9F396042D28240500C5B79B /* RunnerImg + Gif.swift */; };
+		E9F396072D28242900C5B79B /* P 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = E9F396062D28242900C5B79B /* P 3.gif */; };
 		E9F7EBE82D24FF6500EC6399 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9F7EBE72D24FF6500EC6399 /* AppDelegate.swift */; };
 		E9F7EBEA2D24FF6500EC6399 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9F7EBE92D24FF6500EC6399 /* SceneDelegate.swift */; };
 		E9F7EBEC2D24FF6500EC6399 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9F7EBEB2D24FF6500EC6399 /* ViewController.swift */; };
@@ -50,6 +53,9 @@
 /* Begin PBXFileReference section */
 		53B06BC0200EEFD4C809490C /* Pods-DodgeRunner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DodgeRunner.debug.xcconfig"; path = "Target Support Files/Pods-DodgeRunner/Pods-DodgeRunner.debug.xcconfig"; sourceTree = "<group>"; };
 		ADF94B8A619CCA7A534CFD3F /* Pods_DodgeRunner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DodgeRunner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9F396022D2823B100C5B79B /* RunnerTapGameVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunnerTapGameVC.swift; sourceTree = "<group>"; };
+		E9F396042D28240500C5B79B /* RunnerImg + Gif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RunnerImg + Gif.swift"; sourceTree = "<group>"; };
+		E9F396062D28242900C5B79B /* P 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "P 3.gif"; sourceTree = "<group>"; };
 		E9F7EBE42D24FF6500EC6399 /* DodgeRunner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DodgeRunner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9F7EBE72D24FF6500EC6399 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9F7EBE92D24FF6500EC6399 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -163,8 +169,11 @@
 				E9F7EC1F2D25027C00EC6399 /* RunnerCornerExt++.swift */,
 				E9F7EC212D25029600EC6399 /* RunnerFeedVC.swift */,
 				E9F7EC232D2502AC00EC6399 /* RunnerSetting.swift */,
+				E9F396022D2823B100C5B79B /* RunnerTapGameVC.swift */,
+				E9F396042D28240500C5B79B /* RunnerImg + Gif.swift */,
 				E9F7EC262D250A5100EC6399 /* UIViewController+Ext.h */,
 				E9F7EC272D250A5100EC6399 /* UIViewController+Ext.m */,
+				E9F396062D28242900C5B79B /* P 3.gif */,
 				E9F7EC292D250A6300EC6399 /* RunnerPrivacyVC.swift */,
 				E9F7EC312D250C4700EC6399 /* Localizable.strings */,
 				E9F7EBED2D24FF6500EC6399 /* Main.storyboard */,
@@ -302,6 +311,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9F396072D28242900C5B79B /* P 3.gif in Resources */,
 				E9F7EBF42D24FF6700EC6399 /* LaunchScreen.storyboard in Resources */,
 				E9F7EC2F2D250C4700EC6399 /* Localizable.strings in Resources */,
 				E9F7EC352D250D5E00EC6399 /* GoogleService-Info.plist in Resources */,
@@ -399,8 +409,10 @@
 				E9F7EC202D25027C00EC6399 /* RunnerCornerExt++.swift in Sources */,
 				E9F7EC182D25020900EC6399 /* RunnerGameVC.swift in Sources */,
 				E9F7EC282D250A5100EC6399 /* UIViewController+Ext.m in Sources */,
+				E9F396032D2823B100C5B79B /* RunnerTapGameVC.swift in Sources */,
 				E9F7EC2A2D250A6300EC6399 /* RunnerPrivacyVC.swift in Sources */,
 				E9F7EC1E2D25026400EC6399 /* RunnerContctVC.swift in Sources */,
+				E9F396052D28240500C5B79B /* RunnerImg + Gif.swift in Sources */,
 				E9F7EBEA2D24FF6500EC6399 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -594,7 +606,7 @@
 				CODE_SIGN_ENTITLEMENTS = DodgeRunner/DodgeRunner.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DodgeRunner/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Dodge Runner";
@@ -632,7 +644,7 @@
 				CODE_SIGN_ENTITLEMENTS = DodgeRunner/DodgeRunner.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DodgeRunner/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Dodge Runner";
